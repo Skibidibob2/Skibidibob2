@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ Css html java python
 - 💞️ I’m looking to collaborate on nothing, i am antisocial
 - 📫 How to reach me: you can't
-- 😄 Pronouns: it/that
+- 😄 Pronouns: ze/zim/zi
 - ⚡ Fun fact: I like trains
 
 <!---
